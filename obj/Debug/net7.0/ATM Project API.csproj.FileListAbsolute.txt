@@ -1,0 +1,33 @@
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\appsettings.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\ATM Project API.exe
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\ATM Project API.deps.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\ATM Project API.runtimeconfig.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\ATM Project API.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\ATM Project API.pdb
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.csproj.AssemblyReference.cache
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.AssemblyInfoInputs.cache
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.AssemblyInfo.cs
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets\msbuild.ATM Project API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets\msbuild.build.ATM Project API.props
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ATM Project API.props
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ATM Project API.props
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\scopedcss\bundle\ATM Project API.styles.css
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.csproj.CopyComplete
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\refint\ATM Project API.dll
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.pdb
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ATM Project API.genruntimeconfig.cache
+C:\Users\Latitude 3400\Desktop\C-Sharp-Practices\ATM Project API\obj\Debug\net7.0\ref\ATM Project API.dll

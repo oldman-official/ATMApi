@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ATM Project API.props" />
+</Project>
