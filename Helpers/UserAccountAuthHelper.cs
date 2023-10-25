@@ -43,7 +43,7 @@ public class UserAccountAuthHelper {
     }
     public string CreateToken(int UserId) {
         Claim[] claims = new Claim[] {
-            new Claim("UserId" , UserId.ToString())
+            new Claim("UserId" , UserId.ToString()) ,
         };
         SymmetricSecurityKey symmetricKey = new SymmetricSecurityKey(
             Encoding.UTF8.GetBytes(_config.GetSection("AppSettings:symKey").Value)
@@ -55,7 +55,7 @@ public class UserAccountAuthHelper {
         SecurityTokenDescriptor descriptor = new SecurityTokenDescriptor() {
             Subject = new ClaimsIdentity(claims),
             SigningCredentials = credentials ,
-            Expires = DateTime.Now.AddDays(1)
+            Expires = DateTime.Now.AddHours(1)
         };
         JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
         SecurityToken securityToken = tokenHandler.CreateToken(descriptor);
